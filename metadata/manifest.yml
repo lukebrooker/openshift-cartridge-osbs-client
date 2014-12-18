@@ -2,7 +2,7 @@
 Name: backup-client
 Cartridge-Short-Name: OSBSC
 Display-Name: OSBS-C 1.0
-Source-Url: https://github.com/wshearn/openshift-cartridge-osbs-client.git
+Source-Url: https://github.com/lukebrooker/openshift-cartridge-osbs-client.git
 Description: This is the client cartridge for OSBS
 Version: '1.0'
 Versions:
